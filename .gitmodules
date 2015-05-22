@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/cereal_cipher"]
+	path = sites/all/modules/cereal_cipher
+	url = https://github.com/changemachine/d7m_cereal_cipher.git
